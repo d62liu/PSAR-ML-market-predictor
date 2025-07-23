@@ -4,7 +4,7 @@ A combined approach to financial market forecasting using both traditional techn
 
 ## Overview
 
-**PSAR-ML-market-predictor** is a Python project that integrates the Parabolic SAR (Stop and Reverse) technical indicator with machine learning models to predict financial market trends. It leverages historical market data and advanced algorithms from the fields of data science and machine learning to generate actionable market predictions[1].
+**PSAR-ML-market-predictor** is a Python project that integrates the Parabolic SAR (Stop and Reverse) technical indicator with machine learning models to predict financial market trends. It leverages historical market data and advanced algorithms from the fields of data science and machine learning to generate actionable market predictions.
 
 ## Features
 
