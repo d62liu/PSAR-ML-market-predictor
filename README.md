@@ -24,8 +24,8 @@ A combined approach to financial market forecasting using both traditional techn
 ## Setup & Installation
 
 1. **Clone the repository:**
-```git clone https://github.com/d62liu/PSAR-ML-market-predictor.git``` <br>
-```cd PSAR-ML-market-predictor```
+```git clone https://github.com/d62liu/PSAR-ML-market-predictor.git
+cd PSAR-ML-market-predictor```
 2. **Install dependencies:**
 ```pip install -r requirements.txt```
 
